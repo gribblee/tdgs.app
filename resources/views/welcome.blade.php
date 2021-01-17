@@ -127,7 +127,7 @@
         <div id="nuxt-loading" aria-live="polite" role="status">
             <div>Loading...</div>
         </div>
-    </div>
+    </div>1
     <script>
         window.__NUXT__ = {
             config: {}
